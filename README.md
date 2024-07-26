@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Laravel , Angular, and Asp .Net**
 
-- 📫 How to reach me **pardohc@students.nu-laguna.edu.ph**
+- 📫 How to reach me **joshua.pardo30@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGBXweCXcU/xWNbKxixWeggottfoW2RUQ/edit?utm_content=DAGBXweCXcU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGBXweCXcU/xWNbKxixWeggottfoW2RUQ/edit?utm_content=DAGBXweCXcU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
@@ -36,5 +36,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zarathustra09&show_icons=true&locale=en&layout=compact" alt="zarathustra09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zarathustra09&show_icons=true&locale=en" alt="zarathustra09" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zarathustra09&" alt="zarathustra09" /></p>
