@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zarathustra09](https://github.com/Zarathustra09)
 
-- 📝 I regularly write articles on [https://www.facebook.com/Zarathustraaaa/](https://www.facebook.com/Zarathustraaaa/)
-
 - 💬 Ask me about **Laravel , Angular, and Asp .Net**
 
 - 📫 How to reach me **joshua.pardo30@gmail.com**
