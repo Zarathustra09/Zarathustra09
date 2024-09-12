@@ -5,15 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zarathustra09" alt="zarathustra09" /></a> </p>
 
-- 🔭 I’m currently working on [Agency Management System](https://github.com/Zarathustra09/CCJM_PT.git)
-
 - 🌱 I’m currently learning **Flutter and Firebase**
 
-- 👯 I’m looking to collaborate on **Distribution Inventory System**
-
-- 🤝 I’m looking for help with [Couplay Dating App](https://github.com/Fumihito31/my_app.git)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Zarathustra09](https://github.com/Zarathustra09)
+- 🤝 I’m looking for help with [Couplay Dating App](https://github.com/Zarathustra09/my_app.git)
 
 - 💬 Ask me about **Laravel , Angular, and Asp .Net**
 
