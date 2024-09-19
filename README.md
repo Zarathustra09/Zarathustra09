@@ -57,7 +57,11 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
     </a>
+    <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="asp.net" width="40" height="40" />
+    </a>
 </p>
+
 
 
 
