@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Heal!</h1>
-<h3 align="center">Student working as a Freelance Web Developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zarathustra09&label=Profile%20views&color=0e75b6&style=flat" alt="zarathustra09" /> </p>
 
