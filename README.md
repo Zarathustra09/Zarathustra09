@@ -4,17 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zarathustra09" alt="zarathustra09" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter and Firebase**
-
-- 🤝 I’m looking for help with [Couplay Dating App](https://github.com/Zarathustra09/my_app.git)
-
-- 💬 Ask me about **Laravel , Angular, and Asp .Net**
-
-- 📫 How to reach me **joshua.pardo30@gmail.com**
-
-- ⚡ Fun fact **I like Anime**
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
