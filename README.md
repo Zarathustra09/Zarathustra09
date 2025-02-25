@@ -1,13 +1,11 @@
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=zarathustra09&label=Profile%20views&color=8b0000&style=flat" alt="zarathustra09" /> 
 </p>
-
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=zarathustra09&theme=onedark" alt="zarathustra09" />
     </a> 
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -48,14 +46,11 @@
     </a>
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zarathustra09&show_icons=true&theme=dark&locale=en&layout=compact" alt="zarathustra09" />
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=zarathustra09&show_icons=true&theme=dark&locale=en" 
+         alt="zarathustra09" />
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zarathustra09&show_icons=true&theme=dark&locale=en" alt="zarathustra09" />
-</p>
-
-<p align="center">
+<p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarathustra09&theme=dark" alt="zarathustra09" />
 </p>
