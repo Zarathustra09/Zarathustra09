@@ -46,10 +46,7 @@
     </a>
 </p>
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=zarathustra09&show_icons=true&theme=dark&locale=en" 
-         alt="zarathustra09" />
-</p>
+
 
 <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarathustra09&theme=dark" alt="zarathustra09" />
