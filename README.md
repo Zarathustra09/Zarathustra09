@@ -8,70 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=zarathustra09&label=Profile%20views&color=9d4edd&style=for-the-badge" alt="zarathustra09" />
 </div>
 
----
 
-## 🌟 About Me
-
-```typescript
-const developer = {
-  name: "Zarathustra",
-  location: "PH Server",
-  timezone: "No need, im always awake",
-  currently: "AR + Ecommerce Application",
-  passion: ["Gym", "Competitive Games", "Programming"],
-  motto: "He who has a why can bear anyhow"
-};
-```
-
----
-
-## 🏆 Achievements in the Dark
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zarathustra09&theme=monokai&column=4&margin-w=15&margin-h=15" alt="zarathustra09" />
-</div>
-
----
-
-## 🛠️ Arsenal of the Night
-
-<div align="center">
-
-### Frontend Sorcery
-<img src="https://skillicons.dev/icons?i=angular,js,ts,html,css&theme=dark" />
-
-### Backend Mastery  
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,cs,dotnet&theme=dark" />
-
-### Mobile Wizardry
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
-
-### Database & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" />
-
-### Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-
-</div>
-
----
-
-## 📊 Night Coding Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zarathustra09&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=9d4edd&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarathustra09&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=ffffff" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarathustra09&theme=radical&hide_border=true&background=0d1117&stroke=9d4edd&ring=9d4edd&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9d4edd&sideLabels=9d4edd&dates=ffffff" width="70%" />
-</div>
-
----
-
-## 🌃 Current Focus
-
-<div align="center">
 
 ```mermaid
 graph TD
