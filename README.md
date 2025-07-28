@@ -8,24 +8,53 @@
   <img src="https://komarev.com/ghpvc/?username=zarathustra09&label=Profile%20views&color=9d4edd&style=for-the-badge" alt="zarathustra09" />
 </div>
 
+---
 
+## 🌟 About Me
 
-```mermaid
-graph TD
-    A[🌙 Night Coding] --> B[Frontend Magic]
-    A --> C[Backend Sorcery]
-    A --> D[Mobile Wizardry]
-    B --> E[Angular Adventures]
-    C --> F[Laravel Legends]
-    D --> G[Flutter Fantasies]
-    
-    style A fill:#9d4edd,stroke:#ffffff,stroke-width:2px,color:#ffffff
-    style B fill:#1a1a2e,stroke:#9d4edd,stroke-width:2px,color:#ffffff
-    style C fill:#1a1a2e,stroke:#9d4edd,stroke-width:2px,color:#ffffff
-    style D fill:#1a1a2e,stroke:#9d4edd,stroke-width:2px,color:#ffffff
+```typescript
+const developer = {
+  name: "Zarathustra",
+  location: "PH Server",
+  timezone: "No need, im always awake",
+  currently: "AR + Ecommerce Application",
+  passion: ["Gym", "Competitive Games", "Programming"],
+  motto: "He who has a why can bear anyhow"
+};
 ```
 
+---
+
+## 🏆 Achievements in the Dark
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zarathustra09&theme=monokai&column=4&margin-w=15&margin-h=15" alt="zarathustra09" />
 </div>
+
+---
+
+## 🛠️ Arsenal of the Night
+
+<div align="center">
+
+### Frontend Sorcery
+<img src="https://skillicons.dev/icons?i=angular,js,ts,html,css&theme=dark" />
+
+### Backend Mastery  
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,cs,dotnet&theme=dark" />
+
+### Mobile Wizardry
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
+
+### Database & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" />
+
+### Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
+
+---
 
 ---
 
