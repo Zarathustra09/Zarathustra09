@@ -59,11 +59,3 @@ const developer = {
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=ffffff&animation=twinkling" />
-</div>
-
-<div align="center">
-  <i>✨ "In the darkness of night, code becomes poetry" ✨</i>
-</div>
