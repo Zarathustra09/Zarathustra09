@@ -15,11 +15,11 @@
 ```typescript
 const developer = {
   name: "Zarathustra",
-  location: "Coding in the moonlight",
-  timezone: "Always coding somewhere",
-  currently: "Building digital dreams",
-  passion: ["Clean Code", "Night Coding", "Problem Solving"],
-  motto: "Code by night, dream by day"
+  location: "PH Server",
+  timezone: "No need, im always awake",
+  currently: "AR + Ecommerce Application",
+  passion: ["Gym", "Competitive Games", "Programming"],
+  motto: "He who has a why can bear anyhow"
 };
 ```
 
