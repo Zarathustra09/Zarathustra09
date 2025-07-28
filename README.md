@@ -25,14 +25,6 @@ const developer = {
 
 ---
 
-## 🏆 Achievements in the Dark
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zarathustra09&theme=monokai&column=5&margin-w=15&margin-h=15" alt="zarathustra09" />
-</div>
-
----
-
 ## 🛠️ Arsenal of the Night
 <div align="center">
 
