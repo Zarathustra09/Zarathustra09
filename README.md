@@ -34,27 +34,24 @@ const developer = {
 ---
 
 ## 🛠️ Arsenal of the Night
-
 <div align="center">
 
-### Frontend Sorcery
+**Frontend**<br>
 <img src="https://skillicons.dev/icons?i=angular,js,ts,html,css&theme=dark" />
 
-### Backend Mastery  
+**Backend**<br>
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,cs,dotnet&theme=dark" />
 
-### Mobile Wizardry
+**Mobile**<br>
 <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
 
-### Database & Cloud
+**Database / Cloud**<br>
 <img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" />
 
-### Tools & Workflow
+**Tools**<br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
-
----
 
 ---
 
