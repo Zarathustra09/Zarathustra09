@@ -6,9 +6,7 @@ Software Developer @ **Smart Probe Inc**
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Zarathustra09&theme=dark&hide_border=true)](https://github.com/Zarathustra09)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zarathustra09&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/Zarathustra09)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zarathustra09&theme=dark&hide_border=true)](https://github.com/Zarathustra09)
 
 </div>
 
@@ -17,13 +15,22 @@ Software Developer @ **Smart Probe Inc**
 ## Tech Stack
 
 **Frontend**  
-Vue.js • Angular • Inertia.js • Tailwind CSS • TypeScript
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/-Inertia.js-9553E9?style=flat&logo=inertia&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **Backend**  
-Laravel • PHP • Node.js • C# • MySQL
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Mobile**  
-Flutter • Dart
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 <br>
 
