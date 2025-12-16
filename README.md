@@ -1,59 +1,105 @@
-<h1 align="center">Hi 👋, I'm Zarathustra09</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Zarathustra09">
-    <img alt="GitHub Stats" src="https://gh-readme-streak-stats.herokuapp.com/?user=Zarathustra09&hide_border=true&theme=dark" />
-  </a>
-</p>
+# 👋 Hi, I'm Zarathustra09
 
----
+### Software Developer | Full-Stack Engineer | Mobile Developer
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Zarathustra09&theme=dark&hide_border=true)](https://github.com/Zarathustra09)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zarathustra09&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/Zarathustra09)
+
+</div>
 
 ## 👨‍💻 About Me
 
-I’m a **software developer at Smart Probe Inc**, building apps and tools across web and mobile.  
-My current main stack is **VILT (Vue, Inertia, Laravel, Tailwind)** and **Flutter**, but I also have experience with **Angular, TypeScript, PHP, Node.js, Laravel, and MySQL**.
+Software Developer at **Smart Probe Inc**, specializing in building scalable web and mobile applications. I focus on creating efficient, user-friendly solutions using modern frameworks and technologies.
+
+**Current Stack:** VILT (Vue.js, Inertia.js, Laravel, Tailwind CSS) + Flutter
+
+**Additional Experience:** Angular, TypeScript, PHP, Node.js, MySQL, and various modern development tools
+
+## 🛠️ Technical Skills
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Mobile & Languages
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 🌐 Full-Stack Applications
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🍽️ [CateringIMS](https://github.com/Zarathustra09/CateringIMS)
+Comprehensive Catering Integrated Management System featuring:
+- Real-time reservation handling
+- Inventory allocation & tracking
+- Full-stack CRUD operations
+
+</td>
+<td width="50%">
+
+#### 🔍 [ArtifactExplorer](https://github.com/Zarathustra09/ArtifactExplorer)
+Modern CSS-centric explorer showcasing:
+- Advanced styling techniques
+- Responsive design patterns
+- Interactive UI components
+
+</td>
+</tr>
+</table>
+
+### 📱 Mobile & Desktop Applications
+
+<table>
+<tr>
+<td width="50%">
+
+#### 💪 [Swole](https://github.com/Zarathustra09/Swole) & [Swole_Angular](https://github.com/Zarathustra09/Swole_Angular)
+Fitness tracking application with C# backend and Angular frontend, featuring workout planning and progress monitoring.
+
+</td>
+<td width="50%">
+
+#### 🎮 [Couplay](https://github.com/Zarathustra09/Couplay)
+Flutter-based interactive application demonstrating modern mobile development practices.
+
+</td>
+</tr>
+</table>
+
+#### 📚 [ReadZone](https://github.com/Zarathustra09/read_zone)
+Dart/Flutter reading application with intuitive UI and content management features.
 
 ---
 
-## 🛠️ Languages & Tools
+<div align="center">
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat&logo=vue.js)
-![Inertia.js](https://img.shields.io/badge/-Inertia.js-000000?style=flat&logo=inertia)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+## 📫 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zarathustra09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-pardo-549b6a192/)
 
 ---
 
-## 📌 Featured Projects
+⭐ **Thanks for visiting!** Feel free to explore my repositories and reach out for collaborations.
 
-### 🔗 Web & Full-Stack
+![Profile Views](https://komarev.com/ghpvc/?username=Zarathustra09&color=blue&style=flat-square)
 
-- **[CateringIMS](https://github.com/Zarathustra09/CateringIMS)** – Catering Integrated Management System with reservation handling & inventory allocation.  
-- **[ArtifactExplorer](https://github.com/Zarathustra09/ArtifactExplorer)** – CSS-centric explorer project.
-
-### 💪 Apps & Interfaces
-
-- **[Swole](https://github.com/Zarathustra09/Swole)** – Fitness app in C#.  
-- **[Swole_Angular](https://github.com/Zarathustra09/Swole_Angular)** – Angular frontend for Swole.  
-- **[Couplay](https://github.com/Zarathustra09/Couplay)** – Dart / Flutter-based project.  
-- **[read_zone](https://github.com/Zarathustra09/read_zone)** – Reading app in Dart.
-
-> 🔗 *More projects available in my repositories — feel free to explore!*  
-
----
-
-## 📫 Connect with Me
-
-📌 **GitHub:** https://github.com/Zarathustra09   
-📌 **LinkedIn:** https://www.linkedin.com/in/joshua-pardo-549b6a192/
-
----
-
-*Thanks for visiting! ⭐ Feel free to explore my projects and drop a 👋.*
-
+</div>
