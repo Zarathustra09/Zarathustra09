@@ -58,10 +58,21 @@ const developer = {
 <tr>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Heart" width="20" /> Couplay
+```
+ ██████╗ ██████╗ ██╗   ██╗██████╗ ██╗      █████╗ ██╗   ██╗
+██╔════╝██╔═══██╗██║   ██║██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝
+██║     ██║   ██║██║   ██║██████╔╝██║     ███████║ ╚████╔╝ 
+██║     ██║   ██║██║   ██║██╔═══╝ ██║     ██╔══██║  ╚██╔╝  
+╚██████╗╚██████╔╝╚██████╔╝██║     ███████╗██║  ██║   ██║   
+ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   
+```
 Real-time dating platform with Firebase integration
 
-`Flutter` `Firebase` `NoSQL`
+<p>
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-%23DD2C00.svg?style=flat&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/NoSQL-%234DB33D.svg?style=flat&logo=mongodb&logoColor=white" />
+</p>
 
 <a href="https://github.com/Zarathustra09/Couplay">
   <img src="https://img.shields.io/badge/View_Project-%2312100E.svg?&style=flat&logo=github&logoColor=white" />
@@ -70,10 +81,22 @@ Real-time dating platform with Firebase integration
 </td>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="20" /> SentriSafe
+```
+███████╗███████╗███╗   ██╗████████╗██████╗ ██╗███████╗ █████╗ ███████╗███████╗
+██╔════╝██╔════╝████╗  ██║╚══██╔══╝██╔══██╗██║██╔════╝██╔══██╗██╔════╝██╔════╝
+███████╗█████╗  ██╔██╗ ██║   ██║   ██████╔╝██║███████╗███████║█████╗  █████╗  
+╚════██║██╔══╝  ██║╚██╗██║   ██║   ██╔══██╗██║╚════██║██╔══██║██╔══╝  ██╔══╝  
+███████║███████╗██║ ╚████║   ██║   ██║  ██║██║███████║██║  ██║██║     ███████╗
+╚══════╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚══════╝
+```
 Crime reporting with AI-powered route optimization
 
-`Flutter` `Laravel` `Gemini AI` `Google Maps`
+<p>
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-%238E75B2.svg?style=flat&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Maps-%234285F4.svg?style=flat&logo=google-maps&logoColor=white" />
+</p>
 
 <a href="https://github.com/Zarathustra09/sentrisafe">
   <img src="https://img.shields.io/badge/View_Project-%2312100E.svg?&style=flat&logo=github&logoColor=white" />
@@ -85,10 +108,22 @@ Crime reporting with AI-powered route optimization
 <tr>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Couch%20and%20Lamp.png" alt="Couch" width="20" /> SaktoSpace
+```
+███████╗ █████╗ ██╗  ██╗████████╗ ██████╗ ███████╗██████╗  █████╗  ██████╗███████╗
+██╔════╝██╔══██╗██║ ██╔╝╚══██╔══╝██╔═══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝██╔════╝
+███████╗███████║█████╔╝    ██║   ██║   ██║███████╗██████╔╝███████║██║     █████╗  
+╚════██║██╔══██║██╔═██╗    ██║   ██║   ██║╚════██║██╔═══╝ ██╔══██║██║     ██╔══╝  
+███████║██║  ██║██║  ██╗   ██║   ╚██████╔╝███████║██║     ██║  ██║╚██████╗███████╗
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝
+```
 AR furniture e-commerce powered by OpenAI
 
-`Flutter` `Laravel` `OpenAI` `AR`
+<p>
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AR-%23FF6F00.svg?style=flat&logo=google&logoColor=white" />
+</p>
 
 <a href="https://github.com/Zarathustra09/SaktoSpace">
   <img src="https://img.shields.io/badge/View_Project-%2312100E.svg?&style=flat&logo=github&logoColor=white" />
@@ -97,10 +132,21 @@ AR furniture e-commerce powered by OpenAI
 </td>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="20" /> OptiManage
+```
+ ██████╗ ██████╗ ████████╗██╗███╗   ███╗ █████╗ ███╗   ██╗ █████╗  ██████╗ ███████╗
+██╔═══██╗██╔══██╗╚══██╔══╝██║████╗ ████║██╔══██╗████╗  ██║██╔══██╗██╔════╝ ██╔════╝
+██║   ██║██████╔╝   ██║   ██║██╔████╔██║███████║██╔██╗ ██║███████║██║  ███╗█████╗  
+██║   ██║██╔═══╝    ██║   ██║██║╚██╔╝██║██╔══██║██║╚██╗██║██╔══██║██║   ██║██╔══╝  
+╚██████╔╝██║        ██║   ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║██║  ██║╚██████╔╝███████╗
+ ╚═════╝ ╚═╝        ╚═╝   ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+```
 Enterprise task management system
 
-`Laravel` `MySQL` `Bootstrap`
+<p>
+<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white" />
+</p>
 
 <a href="https://github.com/Zarathustra09/OptiManage">
   <img src="https://img.shields.io/badge/View_Project-%2312100E.svg?&style=flat&logo=github&logoColor=white" />
@@ -112,10 +158,21 @@ Enterprise task management system
 <tr>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" /> ProgressUp
+```
+██████╗ ██████╗  ██████╗  ██████╗ ██████╗ ███████╗███████╗███████╗██╗   ██╗██████╗ 
+██╔══██╗██╔══██╗██╔═══██╗██╔════╝ ██╔══██╗██╔════╝██╔════╝██╔════╝██║   ██║██╔══██╗
+██████╔╝██████╔╝██║   ██║██║  ███╗██████╔╝█████╗  ███████╗███████╗██║   ██║██████╔╝
+██╔═══╝ ██╔══██╗██║   ██║██║   ██║██╔══██╗██╔══╝  ╚════██║╚════██║██║   ██║██╔═══╝ 
+██║     ██║  ██║╚██████╔╝╚██████╔╝██║  ██║███████╗███████║███████║╚██████╔╝██║     
+╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝     
+```
 Attendance management for educational centers
 
-`Laravel` `MySQL` `Bootstrap`
+<p>
+<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white" />
+</p>
 
 <a href="https://github.com/Zarathustra09/ProgressUp">
   <img src="https://img.shields.io/badge/View_Project-%2312100E.svg?&style=flat&logo=github&logoColor=white" />
@@ -124,10 +181,27 @@ Attendance management for educational centers
 </td>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" alt="Plug" width="20" /> SaktoSpaceAPI
+```
+███████╗ █████╗ ██╗  ██╗████████╗ ██████╗ ███████╗██████╗  █████╗  ██████╗███████╗
+██╔════╝██╔══██╗██║ ██╔╝╚══██╔══╝██╔═══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝██╔════╝
+███████╗███████║█████╔╝    ██║   ██║   ██║███████╗██████╔╝███████║██║     █████╗  
+╚════██║██╔══██║██╔═██╗    ██║   ██║   ██║╚════██║██╔═══╝ ██╔══██║██║     ██╔══╝  
+███████║██║  ██║██║  ██╗   ██║   ╚██████╔╝███████║██║     ██║  ██║╚██████╗███████╗
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝
+ █████╗ ██████╗ ██╗
+██╔══██╗██╔══██╗██║
+███████║██████╔╝██║
+██╔══██║██╔═══╝ ██║
+██║  ██║██║     ██║
+╚═╝  ╚═╝╚═╝     ╚═╝
+```
 RESTful API backend service
 
-`Laravel` `MySQL` `REST`
+<p>
+<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/REST-%23009688.svg?style=flat&logo=fastapi&logoColor=white" />
+</p>
 
 <a href="https://github.com/Zarathustra09/SaktoSpaceAPI">
   <img src="https://img.shields.io/badge/View_Project-%2312100E.svg?&style=flat&logo=github&logoColor=white" />
