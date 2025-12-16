@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-pardo-549b6a192/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zarathustra09)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
@@ -45,91 +46,23 @@ Full-stack developer passionate about creating scalable applications and elegant
 
 ## 🎯 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+**[💕 Couplay](https://github.com/Zarathustra09/Couplay)** — Firebase-enabled dating app with real-time messaging  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
 
-### 💕 Couplay
-A modern dating application built with Flutter and Firebase, featuring real-time messaging, user matching algorithms, and profile customization.
+**[🛡️ SentriSafe](https://github.com/Zarathustra09/sentrisafe)** — Crime reporting with Google Maps and Gemini AI route calculation  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=google-maps&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
 
-**Tech:** `Flutter` `Firebase` `Dart`
+**[🛋️ SaktoSpace](https://github.com/Zarathustra09/SaktoSpace)** — AI-enabled furniture e-commerce system  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![ModelViewer](https://img.shields.io/badge/ModelViewer-FF6F00?style=flat-square&logo=google&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Zarathustra09/Couplay)
+**[📊 OptiManage](https://github.com/Zarathustra09/OptiManage)** — Task management system for companies  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-</td>
-<td width="50%">
+**[📚 ProgressUp](https://github.com/Zarathustra09/ProgressUp)** — Attendance management system for Teacher A Learning Center  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### 🛡️ SentriSafe
-Crime reporting platform with integrated Google Maps and OpenAI-powered route calculation for safety-conscious navigation.
-
-**Tech:** `Dart` `Google Maps API` `OpenAI`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Zarathustra09/sentrisafe)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛋️ SaktoSpace
-AI-enabled furniture e-commerce system with custom REST API, featuring intelligent product recommendations and inventory management.
-
-**Tech:** `Dart` `REST API` `AI`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Zarathustra09/SaktoSpace)
-
-</td>
-<td width="50%">
-
-### 📊 OptiManage
-Enterprise task management system designed for optimizing company workflows and team collaboration.
-
-**Tech:** `Laravel` `Blade` `PHP`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Zarathustra09/OptiManage)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 🔌 SaktoSpaceAPI
-RESTful API powering the SaktoSpace e-commerce platform with comprehensive endpoints for product management, orders, and user authentication.
-
-**Tech:** `Laravel` `REST API` `MySQL`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Zarathustra09/SaktoSpaceAPI)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zarathustra09&theme=radical&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Zarathustra09)
-
-<img src="https://github-readme-stats.vercel.app/api?username=Zarathustra09&show_icons=true&theme=radical&hide_border=true&border_radius=8" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarathustra09&layout=compact&theme=radical&hide_border=true&border_radius=8" alt="Top Languages" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always interested in collaborating on innovative projects or discussing new opportunities. Feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joshua-pardo-549b6a192/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
+**[🔌 SaktoSpaceAPI](https://github.com/Zarathustra09/SaktoSpaceAPI)** — REST API for SaktoSpace platform  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
