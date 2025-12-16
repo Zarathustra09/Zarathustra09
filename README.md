@@ -45,7 +45,7 @@
 **[🛡️ SentriSafe](https://github.com/Zarathustra09/sentrisafe)** — Crime reporting with Google Maps and Gemini AI route calculation  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=google-maps&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
 
-**[🛋️ SaktoSpace](https://github.com/Zarathustra09/SaktoSpace)** — AR-enabled furniture e-commerce system empowered by Open-AI chatbot  
+**[🛋️ SaktoSpace](https://github.com/Zarathustra09/SaktoSpace)** — AR-enabled furniture e-commerce system empowered by Open-AI API  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![ModelViewer](https://img.shields.io/badge/ModelViewer-FF6F00?style=flat-square&logo=google&logoColor=white)
 
 **[📊 OptiManage](https://github.com/Zarathustra09/OptiManage)** — Task management system for companies  
