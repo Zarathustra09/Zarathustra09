@@ -1,68 +1,155 @@
 <div align="center">
 
-# 👋 Hi, Heal
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│     ██╗  ██╗███████╗ █████╗ ██╗                        │
+│     ██║  ██║██╔════╝██╔══██╗██║                        │
+│     ███████║█████╗  ███████║██║                        │
+│     ██╔══██║██╔══╝  ██╔══██║██║                        │
+│     ██║  ██║███████╗██║  ██║███████╗                   │
+│     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝                   │
+│                                                         │
+│     Software Developer @ Smart Probe Inc                │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
-### Software Developer @ **Smart Probe Inc**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-pardo-549b6a192/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zarathustra09)
-
-</div>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### Frontend Development
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Development
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p>
+  <a href="https://www.linkedin.com/in/joshua-pardo-549b6a192/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Zarathustra09">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" /> Tech Arsenal
 
-**[💕 Couplay](https://github.com/Zarathustra09/Couplay)** — Firebase-enabled dating app with real-time messaging  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
+```typescript
+const developer = {
+  frontend: ['Vue.js', 'Angular', 'TypeScript', 'Inertia.js', 'Tailwind CSS'],
+  backend: ['Laravel', 'PHP', 'Node.js', 'C#', 'MySQL'],
+  mobile: ['Flutter', 'Dart'],
+  interests: ['AI Integration', 'Real-time Systems', 'AR/VR']
+}
+```
 
-**[🛡️ SentriSafe](https://github.com/Zarathustra09/sentrisafe)** — Crime reporting with Google Maps and Gemini AI route calculation  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=google-maps&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
+<div align="center">
 
-**[🛋️ SaktoSpace](https://github.com/Zarathustra09/SaktoSpace)** — AR-enabled furniture e-commerce system empowered by Open-AI API  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![ModelViewer](https://img.shields.io/badge/ModelViewer-FF6F00?style=flat-square&logo=google&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
 
-**[📊 OptiManage](https://github.com/Zarathustra09/OptiManage)** — Task management system for companies  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+</div>
 
-**[📚 ProgressUp](https://github.com/Zarathustra09/ProgressUp)** — Attendance management system for Teacher A Learning Center  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+---
 
-**[🔌 SaktoSpaceAPI](https://github.com/Zarathustra09/SaktoSpaceAPI)** — REST API for SaktoSpace platform  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> Featured Work
+
+<table>
+<tr>
+<td width="50%">
+
+### 💕 Couplay
+Real-time dating platform with Firebase integration
+
+`Flutter` `Firebase` `NoSQL`
+
+<a href="https://github.com/Zarathustra09/Couplay">
+  <img src="https://img.shields.io/badge/View_Project-%2312100E.svg?&style=flat&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%">
+
+### 🛡️ SentriSafe
+Crime reporting with AI-powered route optimization
+
+`Flutter` `Laravel` `Gemini AI` `Google Maps`
+
+<a href="https://github.com/Zarathustra09/sentrisafe">
+  <img src="https://img.shields.io/badge/View_Project-%2312100E.svg?&style=flat&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛋️ SaktoSpace
+AR furniture e-commerce powered by OpenAI
+
+`Flutter` `Laravel` `OpenAI` `AR`
+
+<a href="https://github.com/Zarathustra09/SaktoSpace">
+  <img src="https://img.shields.io/badge/View_Project-%2312100E.svg?&style=flat&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%">
+
+### 📊 OptiManage
+Enterprise task management system
+
+`Laravel` `MySQL` `Bootstrap`
+
+<a href="https://github.com/Zarathustra09/OptiManage">
+  <img src="https://img.shields.io/badge/View_Project-%2312100E.svg?&style=flat&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📚 ProgressUp
+Attendance management for educational centers
+
+`Laravel` `MySQL` `Bootstrap`
+
+<a href="https://github.com/Zarathustra09/ProgressUp">
+  <img src="https://img.shields.io/badge/View_Project-%2312100E.svg?&style=flat&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%">
+
+### 🔌 SaktoSpaceAPI
+RESTful API backend service
+
+`Laravel` `MySQL` `REST`
+
+<a href="https://github.com/Zarathustra09/SaktoSpaceAPI">
+  <img src="https://img.shields.io/badge/View_Project-%2312100E.svg?&style=flat&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### 💭 *"The best way to predict the future is to create it."*
+```javascript
+while (alive) {
+  eat();
+  code();
+  sleep();
+  repeat();
+}
+```
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zarathustra09&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Zarathustra09&style=flat&color=4FC08D)
 
 </div>
