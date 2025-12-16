@@ -58,7 +58,7 @@ const developer = {
 <tr>
 <td width="50%">
 
-### 💕 Couplay
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Heart" width="20" /> Couplay
 Real-time dating platform with Firebase integration
 
 `Flutter` `Firebase` `NoSQL`
@@ -70,7 +70,7 @@ Real-time dating platform with Firebase integration
 </td>
 <td width="50%">
 
-### 🛡️ SentriSafe
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="20" /> SentriSafe
 Crime reporting with AI-powered route optimization
 
 `Flutter` `Laravel` `Gemini AI` `Google Maps`
@@ -85,7 +85,7 @@ Crime reporting with AI-powered route optimization
 <tr>
 <td width="50%">
 
-### 🛋️ SaktoSpace
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Couch%20and%20Lamp.png" alt="Couch" width="20" /> SaktoSpace
 AR furniture e-commerce powered by OpenAI
 
 `Flutter` `Laravel` `OpenAI` `AR`
@@ -97,7 +97,7 @@ AR furniture e-commerce powered by OpenAI
 </td>
 <td width="50%">
 
-### 📊 OptiManage
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="20" /> OptiManage
 Enterprise task management system
 
 `Laravel` `MySQL` `Bootstrap`
@@ -112,7 +112,7 @@ Enterprise task management system
 <tr>
 <td width="50%">
 
-### 📚 ProgressUp
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" /> ProgressUp
 Attendance management for educational centers
 
 `Laravel` `MySQL` `Bootstrap`
@@ -124,7 +124,7 @@ Attendance management for educational centers
 </td>
 <td width="50%">
 
-### 🔌 SaktoSpaceAPI
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" alt="Plug" width="20" /> SaktoSpaceAPI
 RESTful API backend service
 
 `Laravel` `MySQL` `REST`
@@ -141,14 +141,7 @@ RESTful API backend service
 
 <div align="center">
 
-```javascript
-while (alive) {
-  eat();
-  code();
-  sleep();
-  repeat();
-}
-```
+> *"He who has a why, can bear almost any how. My why, is God"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zarathustra09&style=flat&color=4FC08D)
 
