@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -191,4 +191,4 @@ RESTful API backend service
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zarathustra09&style=flat&color=4FC08D)
 
-</div>
+</div> -->
